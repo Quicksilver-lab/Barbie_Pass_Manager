@@ -1,0 +1,33 @@
+
+FREE APP
+
+Created by QuickSilver on Tuesday 3rd of September 2024 07:47:06 PM.
+
+Release APK & App Bundle (AAB) ready to be submitted to Google Play Store 
+and to any other APK / AAB store over the internet.
+
+-------------------------------------
+App ID:			426896
+App Key:		bmmgPhKGMKbiKsbpPjEwjGtyCHxmPTCF
+App Name:		Barbie Pass
+App Version:	1.0
+Package:		com.quicksilverlab.barbiepass
+Mode:			Free App
+-------------------------------------
+
+This app is ready, you can publish it to the 
+google play store and to any apk app store on the internet.
+
+-------------------------------------
+Here are some useful links:
+-------------------------------------
+
+QuickSilver GitHub:
+https://github.com/Quicksilver-lab
+
+App Repo Link:
+https://github.com/Quicksilver-lab/Barbie_Pass_Manager
+
+-------------------------------------
+Thank Us Later!
+-------------------------------------
