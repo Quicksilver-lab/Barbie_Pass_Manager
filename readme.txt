@@ -1,5 +1,7 @@
+Barbir Password Manager
+    Secure and Safe Place to store Your Passwords!
 
-FREE APP
+-------------------------------------
 
 Created by QuickSilver on Tuesday 3rd of September 2024 07:47:06 PM.
 
