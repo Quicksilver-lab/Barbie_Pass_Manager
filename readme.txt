@@ -30,10 +30,10 @@ https://quicksilver-lab.github.io/Barbie_Pass_Manager
 Download Apk:
 https://github.com/Quicksilver-lab/Barbie_Pass_Manager/releases/download/SecureAndStylish/app-release.apk
 
-QuickSilver GitHub:
+QuickSilver's GitHub:
 https://github.com/Quicksilver-lab
 
-App Repo Link:
+QuickSilver's Website:
 https://github.com/Quicksilver-lab/Barbie_Pass_Manager
 
 -------------------------------------
