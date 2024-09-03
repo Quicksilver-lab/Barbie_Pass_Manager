@@ -1,5 +1,6 @@
 
-FREE APP
+Barbie Password Manager
+    Cute amd Safe Place to save Your Passwords. Without the need of Remembering Them!
 
 Created by QuickSilver on Tuesday 3rd of September 2024 07:47:06 PM.
 
