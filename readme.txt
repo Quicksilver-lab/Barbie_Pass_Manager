@@ -34,7 +34,7 @@ QuickSilver's GitHub:
 https://github.com/Quicksilver-lab
 
 QuickSilver's Website:
-https://github.com/Quicksilver-lab/Barbie_Pass_Manager
+https://quicksilver-lab.github.io/Quicksilver-lab/about
 
 -------------------------------------
 Thank Us Later!
