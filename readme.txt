@@ -24,6 +24,9 @@ google play store and to any apk app store on the internet.
 Here are some useful links:
 -------------------------------------
 
+Live Web View:
+https://quicksilver-lab.github.io/Barbie_Pass_Manager
+
 QuickSilver GitHub:
 https://github.com/Quicksilver-lab
 
