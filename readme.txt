@@ -27,6 +27,9 @@ Here are some useful links:
 Live Web View:
 https://quicksilver-lab.github.io/Barbie_Pass_Manager
 
+Download Apk:
+https://github.com/Quicksilver-lab/Barbie_Pass_Manager/releases/download/SecureAndStylish/app-release.apk
+
 QuickSilver GitHub:
 https://github.com/Quicksilver-lab
 
