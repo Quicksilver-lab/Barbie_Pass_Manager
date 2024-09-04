@@ -1,4 +1,4 @@
-Barbir Password Manager
+Barbie Password Manager
     Secure and Safe Place to store Your Passwords!
 
 -------------------------------------
@@ -11,8 +11,8 @@ and to any other APK / AAB store over the internet.
 -------------------------------------
 App ID:			426896
 App Key:		bmmgPhKGMKbiKsbpPjEwjGtyCHxmPTCF
-App Name:		Barbie Pass
-App Version:	1.0
+App Name:		Barbie Themed PassWord Manager
+App Version:            1.0
 Package:		com.quicksilverlab.barbiepass
 Mode:			Free App
 -------------------------------------
